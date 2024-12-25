@@ -74,7 +74,7 @@ The analysis outputs critical diagrams and calculations to assess the bridge's s
 ---
 
 ## Authors
-- **[Mani Majd, Charlie Martinez, Shreyaj Pal Choundry ]**
+- **Mani Majd, Charlie Martinez, Shreyaj Pal Choundry**
 
 This project was completed as part of the CIV102 Civil Engineering course at the University of Toronto.
 
